@@ -1,8 +1,8 @@
 👋 Hi, I’m @Camilla82
-- Hi everyone! I'm Camilla, an archaeologist that would like to become a data analyst :)
+- Hi everyone! I'm Camilla, an archaeologist turning into a data analyst :)
 ----------------------------
 🌱 I’m currently learning
-- SQL and I am enjoying (almost) every minute!
+- SQL and Python and I am enjoying (almost) every minute!
 ----------------------------
 💞️ I’m looking to collaborate on ...
 - At the moment, I am focusing on strengthening my profile as a data analyst and learning as much as I can.
