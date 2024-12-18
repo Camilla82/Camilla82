@@ -1,5 +1,5 @@
 👋 Hi, I’m @Camilla82
-- Hi everyone! I'm Camilla, an archaeologist turning into a data analyst :)
+- Hi everyone! I'm Camilla, an archaeologist aspiring data engineer :)
 ----------------------------
 🌱 I’m currently learning
 - SQL and Python and I am enjoying (almost) every minute!
