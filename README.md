@@ -5,7 +5,7 @@
 - SQL and Python and I am enjoying (almost) every minute!
 ----------------------------
 💞️ I’m looking to collaborate on ...
-- At the moment, I am focusing on strengthening my profile as a data analyst and learning as much as I can.
+- At the moment, I am currently enrolled in the Data Engineering boot camp at Northcoders. Focusing on learning as much as I can!
 ----------------------------
 📫 How to reach me ...
 - You can reach me at camillabertini@gmail.com
