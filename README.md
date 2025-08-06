@@ -1,5 +1,5 @@
-👋 Hi, I’m @Camilla82
-- Hi everyone! I'm Camilla, an aspiring data analyst and engineer :)
+
+👋 Hi everyone! I'm Camilla, an aspiring data analyst and engineer :)
 ----------------------------
 🌱 I’m currently learning
 - SQL and Python and I am enjoying (almost) every minute!
