@@ -1,8 +1,8 @@
 
-👋 Hi everyone! I'm Camilla, an aspiring data analyst and engineer :)
+👋 Hi everyone! I'm Camilla, a junior data analyst/engineer :)
 ----------------------------
 🌱 I’m currently learning
-- SQL and Python and I am enjoying (almost) every minute!
+- SQL and Python, and I am enjoying (almost) every minute!
 ----------------------------
 💞️ I’m looking to collaborate on ...
 - At the moment, I am currently enrolled in the Data Engineering boot camp at Northcoders. Focusing on learning as much as I can!
