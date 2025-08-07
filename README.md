@@ -11,9 +11,9 @@ Fast forward to today: I’ve just completed an intensive 13-week Data Engineeri
 I love solving problems, finding patterns, and telling stories with data—and I’m always up for learning something new.
 
 ----------------------------
-🌱 I’m currently learning
-- Working on an EDA project (Pandas, Matplotlib)- Kaggle dataset (https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci)
-- Looking to answer questions such as:
+🌱 I’m currently learning/working on
+- Working on an EDA project (Python, Pandas, Matplotlib)- Kaggle dataset (https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci)
+Looking to answer questions such as:
  - **Descriptive statistics**: Revenue trends, average order value
  - **Customer analysis**: New vs returning, lifetime value, segmentation
  - **Product analysis**: Best sellers, category performance
@@ -31,7 +31,7 @@ I love solving problems, finding patterns, and telling stories with data—and I
 - She/her
 ----------------------------
 ⚡ Fun fact:
-- I am Dungeon Master (Dnd, Cthulhu, Blades in the Dark) and I love playing video games (very excited for the new Dragon Age finally coming out this year!).
+- I am Dungeon Master (Dnd, Cthulhu, Blades in the Dark) and I love playing video games (currently playing: Pathfinder: Wrath of the Righteous)
 
 <!---
 Camilla82/Camilla82 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
