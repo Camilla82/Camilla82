@@ -1,37 +1,63 @@
 
 👋 Hi everyone! I'm Camilla
 
-My background in Archaeological Science gives me a unique lens on the world of data. In my previous career as a STEM and archaeology researcher, Excel was my bread and butter—data wrangling, cleaning, and analysis were part of my everyday workflow.
+My background in Archaeological Science gives me a unique lens on the world of data. In my previous career as a STEM researcher, I worked daily with large, messy datasets — wrangling, cleaning, and analysing them to uncover hidden patterns in historical materials.
 
-But over time, I started to feel like I was hitting a ceiling. I wanted to go deeper, to really understand and shape the data I was working with.
-That curiosity led me to experiment with R and ggplot2 to create visualisations for my research, and suddenly, a whole new world opened up.
+Over time, curiosity pushed me to go deeper: I started experimenting with R and ggplot2, then moved into Python to expand my data analysis and visualisation. That spark eventually led me to the Northcoders Data Engineering bootcamp, where I trained intensively in Python, SQL, AWS, CI/CD, and infrastructure-as-code.
 
-Fast forward to today: I’ve just completed an intensive 13-week Data Engineering bootcamp with Northcoders, and I’m excited to break into tech as a data analyst (which, in many ways, I was already doing!) and as a data engineer.
+Now, I’m building on that foundation by moving into AI and machine learning. My current focus is experimenting with predictive modelling and large language models (LLMs) — testing workflows on AWS Bedrock, Hugging Face, and Ollama, and exploring prompt engineering, fine-tuning, and cloud deployment.
 
-I love solving problems, finding patterns, and telling stories with data, and I’m always up for learning something new.
+I love solving problems, finding patterns, and telling stories with data — whether through a well-structured pipeline, a statistical model, or an AI-driven insight.
 
-----------------------------
+
 🌱 I’m currently learning/working on
-- Working on an EDA project (Python, Pandas, Matplotlib)- Kaggle dataset (https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci)
-Looking to answer questions such as:
- - **Descriptive statistics**: Revenue trends, average order value
- - **Customer analysis**: New vs returning, lifetime value, segmentation
- - **Product analysis**: Best sellers, category performance
- - **Time series**: Seasonal patterns, growth trends
- - **Geographic analysis**: Sales by region/country
-----------------------------
-💞️ I’m looking to collaborate on ...
-- I'd love to hear from other career-changers who are working to break into tech.
-- Feel free to drop me an email or a LinkedIn message anytime!
-----------------------------
-📫 How to reach me ...
-- You can reach me at camillabertini@gmail.com or on LinkedIn https://www.linkedin.com/in/camilla-bertini/ 
- ----------------------------
-😄 Pronouns:
-- She/her
-----------------------------
-⚡ Fun fact:
-- I am Dungeon Master (Dnd, Cthulhu, Blades in the Dark) and I love playing video games (currently playing: Pathfinder: Wrath of the Righteous)
+
+AI/ML Projects:
+
+Predictive modelling with scikit-learn (clustering, regression, feature engineering)
+
+LLM experimentation with AWS Bedrock, Hugging Face, and Ollama
+
+Integrating ML models into Python data pipelines on the cloud
+
+Exploratory Data Analysis (EDA): Retail dataset (Python, Pandas, Matplotlib) with insights on revenue trends, customer behaviour, and product performance
+
+Cloud-native Data Engineering: Designing ETL pipelines with AWS services, Terraform, and CI/CD automation
+
+
+💡 What I Value
+
+Continuous learning and experimenting with new tools
+
+Clear, transparent communication of technical results
+
+Collaborative problem-solving in Agile environments
+
+Building inclusive, neurodiversity-aware workspaces
+
+
+💞️ I’m looking to collaborate on …
+
+Projects that bring together data engineering and applied AI
+
+Conversations with other career-changers breaking into tech
+
+Open-source ML/AI experiments and knowledge sharing
+
+
+📫 How to reach me …
+
+📧 camillabertini@gmail.com
+
+🔗 LinkedIn
+
+😄 Pronouns
+
+She/her
+
+⚡ Fun fact
+
+I’m a Dungeon Master (D&D, Call of Cthulhu, Blades in the Dark) and love video games — currently playing Pathfinder: Wrath of the Righteous.
 
 <!---
 Camilla82/Camilla82 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
