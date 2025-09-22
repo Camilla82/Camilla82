@@ -12,11 +12,10 @@ I love solving problems, finding patterns, and telling stories with data — whe
 
 ## 🌱 I’m currently learning/working on  
 - **AI/ML Projects**:  
-  - Predictive modelling with **scikit-learn** (clustering, regression, feature engineering)  
-  - LLM experimentation with **AWS Bedrock, Hugging Face, and Ollama**  
-  - Integrating ML models into **Python data pipelines** on the cloud  
-- **Exploratory Data Analysis (EDA)**: Retail dataset (Python, Pandas, Matplotlib) with insights on revenue trends, customer behaviour, and product performance  
-- **Cloud-native Data Engineering**: Designing ETL pipelines with AWS services, Terraform, and CI/CD automation  
+  - FUTURE Predictive modelling with **scikit-learn** (clustering, regression, feature engineering)  
+  - LLM experimentation with **Hugging Face, and Ollama**  
+- **Exploratory Data Analysis (EDA)**: glass archaeological science dataset (Python, Pandas, Matplotlib) with Data Cleaning Pipeline, AI Integration, Web Interface, Reproducible Environment, Compositional Analysis, Statistical Analysis.
+
 
 ---
 
